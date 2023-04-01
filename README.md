@@ -1,2 +1,2 @@
 # projetoHTML_Tags
- Primeiro projeto html - curso DevMedia
+ Projeto DevMedia - Primeiro projeto html
